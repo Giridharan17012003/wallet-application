@@ -1,0 +1,58 @@
+.div1 {
+    height: 400px;
+    width: 400px;
+    margin-left: 10%;
+    margin-top: 8%;
+    position: absolute;
+    border: solid;
+    padding: 40px;
+    border-radius: 30px;
+
+}
+
+.frm {
+    height: 37px;
+    width: 250px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    height: 40px;
+    width: 100px;
+    margin-left: 18%;
+    background-color: black;
+    color: azure;
+    transition: 0.5s;
+
+}
+
+.div2 {
+    margin-top: 2%;
+    height: 600px;
+    width: 600px;
+    background-image: url("./image/wallet.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    margin-left: 60%;
+    position: absolute;
+}
+
+.form {
+    margin-left: 18%;
+    margin-top: 10%;
+
+
+}
+
+.btn:hover {
+    opacity: 70%;
+    height: 45px;
+    width: 110px;
+
+}

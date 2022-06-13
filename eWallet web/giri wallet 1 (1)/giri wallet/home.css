@@ -1,0 +1,21 @@
+.div1 {
+    height: 500px;
+    width: 530px;
+    background-image: url(./image/What-is-E-wallet.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.div2 {
+    height: 500px;
+    width: 500px;
+    margin-top: 7%;
+    position: absolute;
+    margin-left: 55%;
+
+
+}

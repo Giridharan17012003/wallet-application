@@ -1,0 +1,31 @@
+.div1 {
+    height: 500px;
+    width: 530px;
+    background-image: url(./image/payment2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.div2 {
+    height: 500px;
+    width: 500px;
+    margin-top: 6%;
+    position: absolute;
+    margin-left: 55%;
+    border: solid;
+    border-width: 5px;
+    border-radius: 30px;
+    padding: 40px;
+
+
+}
+
+.frm {
+    height: 40px;
+    width: 250px;
+
+}
